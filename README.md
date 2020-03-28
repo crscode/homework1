@@ -42,3 +42,18 @@ You are required to submit the following for review:
 
 - - -
 © 2019 Trilogy Education Services, a 2U, Inc. brand. All Rights Reserved.
+
+# Changed the Title
+
+- Changed the title to reflect the website 
+
+# Cleaning the Html page 
+
+- chaning the div's to more readable functions 
+- div to header 
+- changed the div in the header to NAV , because they navagate through the website , also had to change it in the css also all the .header div changed to .header nav.
+- changed the div to main and section in the main part of the website, so you will know its the main and the main has sections
+- changed the div to the side box on the website to aside and the div in the aside part to sections of the aside.
+- css combined all the content img into one , by using the .content img to combine all them together 
+- css combined all the h2 content together , by using .content h2 to coming all sections together.
+- css combined all the h3 and img  benifits content together, by using .benifits h3 and img  to combine all the sections together.
